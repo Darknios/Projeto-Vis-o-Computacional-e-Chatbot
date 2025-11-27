@@ -1,0 +1,20 @@
+{
+    "vaca": {
+        "descricao": "A vaca \u00e9 um mam\u00edfero bovino, geralmente criado para produ\u00e7\u00e3o de leite, carne e couro. Existem diversas ra\u00e7as, cada uma com caracter\u00edsticas espec\u00edficas.",
+        "peso": "Geralmente entre 500 kg e 1000 kg, dependendo da ra\u00e7a.",
+        "idade_media": "Cerca de 18 a 22 anos, mas na pecu\u00e1ria a vida \u00fatil \u00e9 menor.",
+        "curiosidades": "Vacas t\u00eam um est\u00f4mago com quatro compartimentos e s\u00e3o animais sociais que vivem em rebanhos."
+    },
+    "cavalo": {
+        "descricao": "O cavalo \u00e9 um mam\u00edfero perissod\u00e1ctilo domesticado, conhecido por sua for\u00e7a, velocidade e beleza. \u00c9 usado para transporte, trabalho agr\u00edcola, esportes e lazer.",
+        "peso": "Varia de 380 kg a 1000 kg, dependendo da ra\u00e7a.",
+        "idade_media": "Cerca de 25 a 30 anos.",
+        "curiosidades": "Cavalos conseguem dormir em p\u00e9 e possuem um campo de vis\u00e3o de quase 360 graus."
+    },
+    "Ovelha": {
+        "descricao": "A ovelha \u00e9 um mam\u00edfero ruminante de pequeno porte, criado principalmente por sua l\u00e3, carne e leite. S\u00e3o animais d\u00f3ceis e adapt\u00e1veis a diversos climas.",
+        "peso": "Geralmente entre 45 kg e 160 kg, dependendo da ra\u00e7a e do sexo.",
+        "idade_media": "Cerca de 10 a 12 anos.",
+        "curiosidades": "As ovelhas s\u00e3o muito inteligentes e conseguem reconhecer rostos humanos e de outras ovelhas por at\u00e9 dois anos."
+    }
+}
