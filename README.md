@@ -7,3 +7,5 @@ Este projeto desenvolve um modelo de Visão Computacional capaz de identificar t
 O modelo foi treinado com uma arquitetura baseada em redes convolucionais (CNN) e aprimorado com técnicas como early stopping, checkpointing e normalização avançada. Os resultados obtidos demonstram elevada precisão na classificação e boa capacidade de generalização, tornando-o adequado para aplicações práticas como sistemas pecuários, reconhecimento automatizado e estudos acadêmicos.
 
 O projeto inclui a preparação dos dados, análise exploratória, criação do pipeline de treinamento, avaliação com métricas como matriz de confusão e relatório de classificação, além de suporte para realizar inferências em novas imagens.
+
+No chatbot utilizar o modelo all-MiniLM-L6-v2 é responsável pela parte de Processamento de Linguagem Natural, especificamente para entender o que o usuário digita no chat após o quiz.
