@@ -1,0 +1,4 @@
+question;answer
+O que caracteriza um cavalo?;"""Um cavalo tem corpo robusto, casco, crina... (resposta curta)"""
+Como foi treinado o modelo?;"""O modelo usa CNN com data augmentation e early stopping."""
+Como enviar uma foto?;"""Use o botão de upload do app para enviar a imagem e rodar o quiz."""
