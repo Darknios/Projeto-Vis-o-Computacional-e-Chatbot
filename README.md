@@ -1,4 +1,4 @@
-# Projeto-Visão-Computacional-e-Chatbot
+# Projeto-Visão-Computacional-e-Chatbot PLN
 
 Link do Streamlit: https://projeto-vis-o-computacional-e-chatbot-addeqyxzsnfxmbyj9k5pcz.streamlit.app/
 
