@@ -258,24 +258,18 @@ if st.session_state.step == 'upload':
     
     # Botão de análise
     if uploaded_file is not None:
-    try:
-        image = Image.open(uploaded_file).convert("RGB")
+        try:
+            image = Image.open(uploaded_file).convert("RGB")
+        except Exception as e:
+            st.error(f"Erro ao carregar a imagem: {e}")
+            st.stop()
 
         st.image(
             image,
             caption="Imagem enviada",
             use_container_width=True
-        )
+        )  
 
-    except Exception as e:
-        st.error(f"Erro ao carregar a imagem: {e}")
-        st.stop()
-
-        st.image(
-            image,
-            caption="Imagem enviada",
-            use_container_width=True
-            )
         
         if st.button("🔍 Analisar Imagem", use_container_width=True):
             with st.spinner("Processando rede neural..."):
